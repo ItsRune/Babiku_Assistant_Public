@@ -1,0 +1,13 @@
+[
+    {
+        "version": "1.0.0",
+        "date": "August 7, 2022",
+        "changes": [
+            "Added new command(s): 'help, reaction roles, settings, inactivitynotice, newally, startsession, ban, kick, forceverify, getroles, unverify, verify, update'",
+            "Added new system(s): 'shift, reaction roles, alliances'"
+        ],
+        "devnotes": [
+            "Might be a little buggy due to not fully testing."
+        ]
+    }
+]

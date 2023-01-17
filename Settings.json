@@ -1,0 +1,122 @@
+{
+    "Debug": false,
+    "Debug_Guild_Id": "",
+    "Guild_Id": "",
+    "Debug_Discord_Token": "",
+    "Discord_Token": "",
+    "MongooseUri": "",
+    "Trello_ApiToken": "",
+    "Trello_ApiKey": "",
+    "Local_ApiKey": "",
+    "robloxApiKey": "",
+    "verificationGameUrl": "https://www.roblox.com/games/9952088542/-",
+    "mainGameUrl": "https://www.roblox.com/games/8126091398/-",
+    "robloxGroupId": 3413904,
+    "betaTesters": [
+        "352604785364697091"
+    ],
+    "debugPrefix": "d!",
+    "bugReportChannelId": "1007588547278164128",
+    "slashCommandsEnabled": false,
+    "MentionRoles": {
+        "affiliatePings": {
+            "name": "Affiliate Notifications",
+            "id": "1015238643545276477",
+            "description": "Get notified for every new alliance!",
+            "emoji": "🤝"
+        },
+        "newShift": {
+            "name": "Session Notifications",
+            "id": "1015238390385487922",
+            "description": "Be notified everytime a new session starts!",
+            "emoji": "⏰"
+        },
+        "qotdPings": {
+            "name": "QOTD Notifications",
+            "id": "1015238710394097735",
+            "description": "Want to answer the QOTD everyday? This role is for you!",
+            "emoji": "❔"
+        },
+        "giveawayPings": {
+            "name": "Giveaway Notifications",
+            "id": "1015238815511740496",
+            "description": "You'll be pinged everytime there's a giveaway.",
+            "emoji": "🏆"
+        },
+        "developmentPings": {
+            "name": "Development Notifications",
+            "id": "1015238857609982024",
+            "description": "Be notified for every update/change to the cafe!",
+            "emoji": "⚒️"
+        },
+        "awarenessPings": {
+            "name": "Awareness Notifications",
+            "id": "1015238766111236146",
+            "description": "Want to know what's happening around the world?",
+            "emoji": "🌎"
+        },
+
+        "she/her": {
+            "name": "She/Her",
+            "id": "1015238996063961128",
+            "description": "She/Her",
+            "emoji": "1️⃣"
+        },
+        "he/him": {
+            "name": "He/Him",
+            "id": "1015239040699748412",
+            "description": "He/Him",
+            "emoji": "2️⃣"
+        },
+        "they/them": {
+            "name": "They/Them",
+            "id": "1015239091744419890",
+            "description": "They/Them",
+            "emoji": "3️⃣"
+        },
+        "she/they": {
+            "name": "She/They",
+            "id": "1015239183742287943",
+            "description": "She/They",
+            "emoji": "4️⃣"
+        },
+        "he/they": {
+            "name": "He/They",
+            "id": "1015239142369660949",
+            "description": "He/They",
+            "emoji": "5️⃣"
+        },
+        "other_pronouns": {
+            "name": "Other Pronouns",
+            "id": "1015239400600379454",
+            "description": "Other Pronouns",
+            "emoji": "6️⃣"
+        },
+
+        "removal": {
+            "name": "Remove All",
+            "id": "removal",
+            "description": "Use this to remove all roles.",
+            "emoji": "❌"
+        }
+    },
+    "Options": {
+        "embedHeader": "BH",
+        "lockedForMainServer": false,
+        "semiLockedForMain": true,
+        "Prefix": "$",
+        "GroupRanks": {
+            "SHR": 63,
+            "HR": 55,
+            "MR": 32,
+            "LR": 20
+        },
+        "AnnouncementChannels": {
+            "Shift": "988905688199729185",
+            "Partnerships": "929091570614042686",
+            "ReactionRoles": "1014463406750838784",
+            "WeeklyShiftReset": "988905688199729185",
+            "Applications": "990556027801964584"
+        }
+    }
+}

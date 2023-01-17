@@ -1,0 +1,8 @@
+/node_modules
+/.env
+/mongoDbConnectionCLI.txt
+/babiku-vm_key.pem
+/.VSCodeCounter
+/profile_example.png
+/Photos
+/src/Files/currentRobloxUsers.json

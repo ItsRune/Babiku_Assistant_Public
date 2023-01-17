@@ -1,0 +1,38 @@
+{
+  "dependencies": {
+    "@discordjs/builders": "^0.15.0",
+    "@discordjs/rest": "^0.5.0",
+    "@itsrune/opencloud.js": "^1.2.3",
+    "axios": "^0.26.1",
+    "canvas": "^2.9.3",
+    "crypto": "^1.0.1",
+    "discord-api-types": "^0.34.0",
+    "discord.js": "^13.6.0",
+    "discord.js-rate-limiter": "^1.3.2",
+    "emoji-dictionary": "^1.0.11",
+    "express": "^4.18.1",
+    "fast-average-color-node": "^2.4.0",
+    "fs": "^0.0.1-security",
+    "isomorphic-fetch": "^3.0.0",
+    "limiter": "^2.1.0",
+    "moment": "^2.29.3",
+    "moment-timezone": "^0.5.34",
+    "mongoose": "^6.3.8",
+    "noblox.js": "^4.13.1",
+    "path": "^0.12.7",
+    "trello": "^0.11.0"
+  },
+  "name": "babikudiscordbot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node .",
+    "node-update": "npm i --save-dev node@16 && npm config set prefix=$(pwd)/node_modules/node && export PATH=$(pwd)/node_modules/node/bin:$PATH",
+    "node-clean": "rm -rf node_modules && rm package-lock.json && npm cache clear --force && npm cache clean --force && npm i",
+    "node-uc": "npm run node-update && npm run node-clean"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
